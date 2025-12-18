@@ -1,4 +1,4 @@
-# Alzheimer’s Risk Prediction (CIS 412 Final Project)
+# Alzheimer’s Risk Prediction
 
 This project uses a global Alzheimer’s dataset (~74k records, 25 features) to:
 
@@ -9,7 +9,7 @@ This project uses a global Alzheimer’s dataset (~74k records, 25 features) to:
 
 ## Files
 
-- `CIS412_Alzheimers_Project.ipynb` – full EDA + model training notebook
+- `Alzheimer’s_Prediction_Model_JTPRIEST.ipynb` – full EDA + model training notebook
 - `alz_streamlit_app.py` – Streamlit app script
 - `alzheimers_best_model.joblib` – saved best pipeline (Random Forest + preprocessing)
 - `alz_feature_metadata.joblib` – metadata for the app (feature lists, etc.)
