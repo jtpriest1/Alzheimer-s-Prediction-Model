@@ -13,6 +13,7 @@ This project uses a global Alzheimer’s dataset (~74k records, 25 features) to:
 - `alz_streamlit_app.py` – Streamlit app script
 - `alzheimers_best_model.joblib` – saved best pipeline (Random Forest + preprocessing)
 - `alz_feature_metadata.joblib` – metadata for the app (feature lists, etc.)
+- `Presentation_Slides_Alzheimers_Prediction_Model.pdf` – Presentation Slides
 
 The original dataset is from Kaggle:  
 <https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global>
